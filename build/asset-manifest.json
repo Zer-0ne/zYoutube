@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/zYoutube/static/css/main.3204c17b.css",
+    "main.js": "/zYoutube/static/js/main.4a165307.js",
+    "static/media/logo.png": "/zYoutube/static/media/logo.bc84bb62a0ca4bfa495d.png",
+    "index.html": "/zYoutube/index.html",
+    "main.3204c17b.css.map": "/zYoutube/static/css/main.3204c17b.css.map",
+    "main.4a165307.js.map": "/zYoutube/static/js/main.4a165307.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3204c17b.css",
+    "static/js/main.4a165307.js"
+  ]
+}
