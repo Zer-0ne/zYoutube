@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  transition: all .3s ease-in-out;
+  text-decoration: none;
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+.react-player{
+  width: auto !important;
+  /* min-height: 360px !important; */
+}
+video{
+  /* width: 100% !important;
+  height: auto !important;
+  left: 243px; */
+  top: 0px;
+}
+input{
+  color: white !important;
+}
+*::-webkit-scrollbar {
+  display: none;
+}
+.css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root,
+.css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root,
+.css-q2yjqg-MuiInputBase-root-MuiInput-root,
+.css-18c28r3-MuiInputBase-root-MuiInput-root{
+  color: white !important;
+}
