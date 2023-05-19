@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/zYotube/static/css/main.7676f8ef.css",
-    "main.js": "/zYotube/static/js/main.662dffbd.js",
-    "static/media/logo.png": "/zYotube/static/media/logo.bc84bb62a0ca4bfa495d.png",
-    "index.html": "/zYotube/index.html",
-    "main.7676f8ef.css.map": "/zYotube/static/css/main.7676f8ef.css.map",
-    "main.662dffbd.js.map": "/zYotube/static/js/main.662dffbd.js.map"
+    "main.css": "/zYoutube/static/css/main.7676f8ef.css",
+    "main.js": "/zYoutube/static/js/main.e0b849b3.js",
+    "static/media/logo1.png": "/zYoutube/static/media/logo1.d25c33721b2a48155543.png",
+    "index.html": "/zYoutube/index.html",
+    "main.7676f8ef.css.map": "/zYoutube/static/css/main.7676f8ef.css.map",
+    "main.e0b849b3.js.map": "/zYoutube/static/js/main.e0b849b3.js.map"
   },
   "entrypoints": [
     "static/css/main.7676f8ef.css",
-    "static/js/main.662dffbd.js"
+    "static/js/main.e0b849b3.js"
   ]
 }
