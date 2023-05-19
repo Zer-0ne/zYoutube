@@ -16,7 +16,7 @@ const VideoDetail = () => {
   useEffect(() => {
     const handleResize = () => {
       const aspectRatio = 16 / 9; // Set your desired aspect ratio
-      const containerWidth = ((playerContainerRef.current?.offsetWidth >= 1500)? 1500:playerContainerRef.current?.offsetWidth) || 1100;
+      const containerWidth = playerContainerRef.current?.offsetWidth  || 1100;
       const newHeight = containerWidth / aspectRatio;
       setPlayerHeight(newHeight);
     };
@@ -50,7 +50,7 @@ const VideoDetail = () => {
             <Box
               ref={playerContainerRef}
               sx={{
-                height: playerHeight,
+                height: {xs:playerHeight,md:(playerHeight>=1500?1100:playerHeight),sm:playerHeight},
                 // maxHeight: '900',
               }}
             >
