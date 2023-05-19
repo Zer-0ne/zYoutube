@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/zYotube/static/css/main.7676f8ef.css",
+    "main.js": "/zYotube/static/js/main.662dffbd.js",
+    "static/media/logo.png": "/zYotube/static/media/logo.bc84bb62a0ca4bfa495d.png",
+    "index.html": "/zYotube/index.html",
+    "main.7676f8ef.css.map": "/zYotube/static/css/main.7676f8ef.css.map",
+    "main.662dffbd.js.map": "/zYotube/static/js/main.662dffbd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7676f8ef.css",
+    "static/js/main.662dffbd.js"
+  ]
+}
